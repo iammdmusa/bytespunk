@@ -1,0 +1,8 @@
+{
+	"baseUrl": "http://localhost:5000/",
+	"fileServerFolder": "dist",
+	"fixturesFolder": false,
+	"pluginsFile": false,
+	"projectId": "etow1b",
+	"supportFile": false
+}
